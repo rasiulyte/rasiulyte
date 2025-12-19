@@ -7,7 +7,7 @@
 I'm on a systematic journey to deepen my expertise in AI quality and evaluation, combining:
 - **12 years at Microsoft** (Test → SDET → SDE)
 - **MS in Computer Science** from Johns Hopkins University (2023)
-- **Outlier (Scale AI subsidiary)** — Expert evaluator for programming projects, ensuring high-quality outputs across C++, C#, Python, Java, and SQL
+- **Outlier (Scale AI)** — Expert evaluator for programming projects, ensuring high-quality outputs across C++, C#, Python, Java, and SQL
 - **Hands-on AI tool evaluation** — documenting what works, what breaks, and why it matters
 
 ## 🔬 Current Focus
