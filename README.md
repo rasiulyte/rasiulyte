@@ -23,7 +23,7 @@ This GitHub tracks my AI evaluation work:
 - `/ai-tool-evaluations` — Structured assessments of AI tools
 - `/edge-cases` — Documented failures and interesting behaviors
 - `/evaluation-frameworks` — Reusable testing approaches
-- `/nist-ai-rmf-evaluation` — Mapping the NIST AI Risk Management Framework to concrete, testable evaluation criteria for generative AI systems  
+- `/nist-ai-rmf-evaluation` — Exploring how governance principles such as the NIST AI Risk Management Framework can mbe mapped to concrete, testable evaluation criteria for generative AI systems  
 
 ## 🔗 Connect
 
