@@ -27,3 +27,5 @@ This GitHub tracks my AI evaluation work:
 ## 🔗 Connect
 
 - [LinkedIn](https://www.linkedin.com/in/rasiulyte/)
+- [Portfolio](https://rasar.ai)
+
