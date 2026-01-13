@@ -1,6 +1,6 @@
-# Hi, I'm Rasa Rasiulyte 👋
+# Hi, I'm Rasa 👋
 
-**AI Quality & Evaluation Strategist** | Building expertise in AI system reliability, safety, and trustworthiness
+**AI Quality & Evaluation Engineer** | Building expertise in AI system reliability, safety, and trustworthiness
 
 ## 🎯 What I'm Doing
 
