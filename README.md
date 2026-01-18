@@ -1,4 +1,4 @@
-# Hi, I'm Rasa 👋
+# Hi, I'm Rasa
 
 **AI Quality & Evaluation Engineer** | Building expertise in AI system reliability, safety, and trustworthiness
 
